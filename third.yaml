@@ -1,0 +1,22 @@
+student1:
+  type: bad studento
+  name: "Mark"
+  age: 48
+  gender: mail
+  everage mark: 2.75
+  subgects: >
+    history:2,math:2,music:5,programming:2
+  isGraduated : null
+student2:
+  type: good studento
+  name: "Lisa"
+  age: 18
+  gender: femail,
+  everage mark: 5
+  isGraduated: true
+  subgects:
+   - "history-5"
+   - "math 5"
+   - "music 5"
+   - "programming 5"
+   

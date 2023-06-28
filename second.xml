@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <object type="bad studento">
+       <name>Mark</name>
+       <age>45</age>
+       <gender>mail</gender>
+       <everageMark>2.75</everageMark>
+       <subgects>
+          <history>2</history>
+          <math>2</math>
+          <music>5</music>
+          <programming>2</programming>
+       </subgects>
+       <isGraduated>not today</isGraduated>
+    </object>
+    <object type="good studento">
+       <name>Lisa</name>
+       <age>18</age>
+       <gender>femail</gender>
+       <everageMark>5</everageMark>
+          <subgects history="5" math="5" music="5" programming="5" />
+       <isGraduated>yes</isGraduated>
+    </object>
+</students>
+
+
